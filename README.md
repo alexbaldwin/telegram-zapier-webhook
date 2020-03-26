@@ -8,3 +8,5 @@ TOKEN=
 
 Learn more about Telegram bots https://core.telegram.org/bots
 
+![Zapier Example](example.png)
+
